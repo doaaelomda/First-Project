@@ -13,22 +13,6 @@ It is designed to be a simple and clean user interface that runs directly in the
 
 ---
 
-## 🗂️ Project Structure
-
-mypeoject/
-├── css/
-│ └── (CSS files)
-├── images/
-│ └── (Project images)
-├── js/
-│ └── (JavaScript files)
-└── index.html
-
-yaml
-Copy code
-
----
-
 ## 💻 How to Run
 
 1. **Clone or download the project**
